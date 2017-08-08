@@ -1,0 +1,61 @@
+
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Salvador Girones"
+title = "Salvador Girones' personal site"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Salvador Gironès"
+intro = "Infrastructure Engineer @ Netlify"
+description = "Now @Netlify <br/> Previously @Schibsted and @CohoData"
+authorimage = "headshot.jpg"
+dateformat = "2 Jan 2006"
+
+## Site Meta Settings
+[params.meta]
+description = ""
+keywords = ""
+
+## Social Accounts
+[params.social]
+github = "sgirones"
+linkedin = "salvadorgirones"
+twitter = "salvadorgirones"
+google = "salvadorgirones"
+email = "you@example.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Salvador Gironès. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
