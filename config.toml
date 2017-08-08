@@ -1,4 +1,5 @@
 
+baseurl = "https://salvadorgirones.com" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
