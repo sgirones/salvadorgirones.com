@@ -36,7 +36,6 @@ github = "sgirones"
 linkedin = "salvadorgirones"
 twitter = "salvadorgirones"
 google = "salvadorgirones"
-email = "you@example.com"
 
 ## Extras
 [params.extra]
