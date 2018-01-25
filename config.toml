@@ -1,5 +1,5 @@
 
-baseurl = "https://salvadorgirones.com" 
+baseurl = "https://salvadorgirones.com"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -39,7 +39,7 @@ google = "salvadorgirones"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Salvador Gironès. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2018. Salvador Gironès. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 hightlightjs = true
 
