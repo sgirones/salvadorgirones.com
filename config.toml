@@ -20,8 +20,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Salvador Gironès"
-intro = "Systems Engineering @ Intellum"
-description = "Now @Intellum <br/> Previously @Netlify and @Schibsted"
+intro = "Systems Engineering @ Xata.io"
+description = "Now @Xata.io <br/> Previously @Netlify and @Schibsted"
 authorimage = "headshot.jpg"
 dateformat = "2 Jan 2006"
 
