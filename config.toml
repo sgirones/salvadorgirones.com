@@ -21,7 +21,7 @@ enableRobotsTXT = true
 [params]
 author = "Salvador Gironès"
 intro = "Systems Engineering @ Xata.io"
-description = "Now @Xata.io <br/> Previously @Netlify and @Schibsted"
+description = "Now at MedusaJS <br/> Previously at SurrealDB, Xata or Netlify"
 authorimage = "headshot.jpg"
 dateformat = "2 Jan 2006"
 
